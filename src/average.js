@@ -1,5 +1,6 @@
 function average(x, y) {
-  return x + y / 2
+  const total = x + y
+  return total / 2
 }
 
 export default average
